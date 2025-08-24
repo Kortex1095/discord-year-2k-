@@ -563,5 +563,5 @@ g:has(rect[mask='url(#svg-mask-status-streaming)']) {
 }
 
 .visual-refresh .scroller_ef3116::-webkit-scrollbar, .scroller_affa7e::-webkit-scrollbar {
-    display: none !important;
+    display: content!important;
 }
